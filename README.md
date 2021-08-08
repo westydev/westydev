@@ -1,7 +1,7 @@
 <h1 align="center"> Hello I'm westy</h1>
 
 <div align="center">
-    <a href="https://discord.com/users/645296920922947615" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/840695080075526164"></a>
+    <a href="https://discord.com/users/840695080075526164" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/840695080075526164"></a>
 </div>
 
 ## Languages
