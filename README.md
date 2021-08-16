@@ -3,7 +3,10 @@
 <div align="center">
     <a href="https://discord.com/users/840695080075526164" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/840695080075526164"></a>
 </div>
-
+</a>
+ <a href="https://github.com/westydev">
+  <img align="left" alt="Elminstr" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 ## Languages
 <div align="center">
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
