@@ -5,7 +5,7 @@
 </div>
 </a>
  <a href="https://github.com/westydev">
-  <img align="left" alt="Elminstr" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="westydev" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 ## Languages
 <div align="center">
@@ -23,4 +23,4 @@
 <a href="https://discord.gg/quepsy" target"blank_"><img src="https://img.shields.io/discord/schwesta?style=for-the-badge&color=7289da&label=Schwesta&logo=discord%22%3E</a>
 </p>
 ##Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=westydev&layout=compact&text_color=FF9DD9&title_color=FF9DD9&bg_color=141321)](https://github.com/westydev)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=westydev&layout=compact&text_color=FF9DD9&title_color=FF9DD9&bg_color=141321"/>
