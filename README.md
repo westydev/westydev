@@ -22,3 +22,5 @@
    <a href="https://github.com/westydev" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://discord.gg/quepsy" target"blank_"><img src="https://img.shields.io/discord/schwesta?style=for-the-badge&color=7289da&label=Schwesta&logo=discord%22%3E</a>
 </p>
+##Top Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=westydev&layout=compact&text_color=FF9DD9&title_color=FF9DD9&bg_color=141321)](https://github.com/westydev)
