@@ -6,8 +6,8 @@
  <a href="https://github.com/westydev">
   <img align="left" alt="westydev" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)]
-
+## Skills
+   <img align="left" alt="westydev" width="16px" src="https://skillicons.dev/icons?i=js,nodejs,py,java,html,css,vscode,mongodb,mysql,github" />
 ## My Accounts
 <p align="center">
    <a href="https://discord.com/users/840695080075526164" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
