@@ -7,7 +7,11 @@
   <img align="left" alt="westydev" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 ## Skills
-   <img align="left" alt="westydev" width="16px" src="https://skillicons.dev/icons?i=js,nodejs,py,java,html,css,vscode,mongodb,mysql,github" />
+   <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,nodejs,py,java,html,css,vscode,mongodb,mysql,github" />
+  </a>
+</p>
 ## My Accounts
 <p align="center">
    <a href="https://discord.com/users/840695080075526164" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
