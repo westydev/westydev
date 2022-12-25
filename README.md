@@ -1,11 +1,4 @@
 <h1 align="center"> Hello I'm westy</h1>
-
-<div align="center">
-</div>
-</a>
- <a href="https://github.com/westydev">
-  <img align="left" alt="westydev" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
 ## Skills
    <p align="center">
   <a href="https://skillicons.dev">
