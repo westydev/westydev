@@ -6,13 +6,7 @@
  <a href="https://github.com/westydev">
   <img align="left" alt="westydev" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-## Languages
-<div align="center">
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>  
-<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-</div>
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,py,java,html,css,vscode,mongodb,mysql,github)](https://skillicons.dev)
 
 ## My Accounts
 <p align="center">
