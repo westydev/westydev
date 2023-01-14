@@ -17,3 +17,12 @@
 <img src="https://komarev.com/ghpvc/?username=westydev&label=Ziyaretçi%20Sayısı&color=da004e" alt="Westy" />
 
 </div>
+## 📊 My Wakatime Stats
+
+<details>
+  <summary>
+      Wakatime stats
+  </summary>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=westydev">
+</details>
+
