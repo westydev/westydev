@@ -12,8 +12,6 @@
    <a href="https://github.com/westydev" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 ## Top Langs
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=westydev&layout=compact&text_color=FF9DD9&title_color=FF9DD9&bg_color=141321"/>
 <img src="https://komarev.com/ghpvc/?username=westydev&label=Ziyaretçi%20Sayısı&color=da004e" alt="Westy" />
 
 </div>
@@ -23,6 +21,6 @@
   <summary>
       Wakatime stats
   </summary>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=westydev">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=westydev&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats">
 </details>
 
