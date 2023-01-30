@@ -2,7 +2,7 @@
 ## Skills
    <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,py,java,html,css,vscode,mongodb,mysql,github" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,py,java,html,vscode,mongodb,mysql,github" />
   </a>
 </p>
 ## My Accounts
