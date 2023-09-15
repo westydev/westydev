@@ -1,5 +1,5 @@
-<h1 align="center"> Hello I'm westy</h1>
 # Skills
+<h1 align="center"> Hello I'm Westy</h1>
    <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,nodejs,cpp,java,vscode,mongodb,mysql,github" />
