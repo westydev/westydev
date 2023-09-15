@@ -5,7 +5,6 @@
     <img src="https://skillicons.dev/icons?i=js,nodejs,cpp,java,vscode,mongodb,mysql,github" />
   </a>
 </p>
-# Top Langs
 <img src="https://komarev.com/ghpvc/?username=westydev&label=Ziyaretçi%20Sayısı&color=da004e" alt="Westy" />
 
 ## 📊 My Wakatime Stats
