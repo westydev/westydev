@@ -1,7 +1,7 @@
-# Skills
 <h1 align="center"> Hello I'm Westy</h1>
    <p align="center">
   <a href="https://skillicons.dev">
+     <h1>Skills</h1>
     <img src="https://skillicons.dev/icons?i=js,nodejs,cpp,java,vscode,mongodb,mysql,github" />
   </a>
 </p>
